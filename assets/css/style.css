@@ -33,10 +33,14 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
-
+img{
+  margin-left: 210px;
+  margin-bottom: 40px;
+  border-radius: 150px;
+}
 #mybio {
-  margin-top: 200px;
-  margin-left: 300px;
+  margin-top: 300px;
+  margin-left: 210px;
 }
 
 /* beginning of my footer section */
@@ -47,7 +51,7 @@ footer {
   text-align: center;
   padding: 40px;
   color: white;
-  margin-top: 300px;
+  margin-top: 220px;
   opacity: .8;
 
 }
