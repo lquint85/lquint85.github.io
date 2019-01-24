@@ -80,7 +80,7 @@ nav {
   text-align: center;
 }
 #projectsCont {
-  
+
 }
 
 /* - - - - - - - - - - - - - images - - - - - - - - - - - - -*/
@@ -155,6 +155,14 @@ p {
 
 }
 
+#row1 {
+margin-top: 100px;
+
+}
+#row2 {
+  margin-top: 50px;
+
+}
 
 
 /*  - - - - - - - - - - Footer Info - - - - -  - - - - - - */
