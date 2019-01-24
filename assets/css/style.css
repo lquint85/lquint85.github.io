@@ -12,7 +12,7 @@ header {
   width: 100%;
   margin-top: 0px;
   padding: 25px;
-  background-image: linear-gradient(to bottom right, rgb(109, 109, 107, 0.63), rgb(23, 83, 151));
+  background-image: linear-gradient(to bottom right, skyblue, rgb(23, 83, 151));
 }
 
 nav {
@@ -25,7 +25,7 @@ nav {
 
 #about {
   margin-top: 20px;
-  margin-left: 30px;
+  margin-left: 13px;
   color: white;
 
 
@@ -89,11 +89,17 @@ img#stock_image {
 
 }
 
-#flower {
+/* #flower {
   z-index: -1;
   margin-left: 300px;
   margin-top: -350px;
+} */
+#avataaars {
+margin-top: -250px;
+margin-left: 485px;
 }
+
+
 
 
 
